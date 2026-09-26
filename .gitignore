@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (real shop data must NEVER go to Git)
+data/*.db
+data/*.db-journal
+
+# Backups
+backups/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
