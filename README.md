@@ -11,11 +11,11 @@ A professional, Urdu-localized desktop application for managing a fertilizer
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Sales
+### Purchase
 ![Purchase](screenshots/purchase.png)
 
 ### Sales
-![Sales](screenshots/sales.png)
+![Sales](screenshots/sale.png)
 
 ### Customer Ledger (Khaata)
 ![Khaata](screenshots/khaata.png)
